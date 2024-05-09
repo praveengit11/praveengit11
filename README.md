@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @praveengit11
-- 👀 I’m interested in full stack web development and competitive coding
-- 🌱 I’m currently learning MERN stack to enhance my full stack dev skills
+- 👋 Hi, I’m Praveen Kumar
+- 👀 I’m a Web Developer and Web Designer.
+- 🌱 I'm aspiring to become a full stack developer
 - 📫 How to reach me -> it's @praveen8642kumar@gmail.com
 
 <!---
